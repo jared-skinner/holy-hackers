@@ -16,8 +16,27 @@ This is the Landing Page for the Holy Hackers Summer Camp 2023
 | 02:00 - 03:00 | Free Choice | Free Choice  | Free Choice    | Free Choice   | Free Choice |
 
 
-
 ## Activities
+
+### Building an Electro Magnet
+
+**Goal**
+**Lesson Plan**
+* https://stemlibrarylab.org/wp-content/uploads/2021/07/Build-an-Electromagnet-Lesson-Plan.pdf
+
+**Materials**
+* 9 Batteries (maybe pair up?)
+* 9 screws
+* copper wire
+
+
+
+
+
+
 
 
 ## Photos
+
+
+
