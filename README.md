@@ -8,36 +8,102 @@ This is the Landing Page for the Holy Hackers Summer Camp 2023
 
 |               | Monday                   | Tuesday               | Wednesday                  | Thursday               | Friday            |
 |---------------|--------------------------|-----------------------|----------------------------|------------------------|-------------------|
-| 09:00 - 10:00 | Binary 1 - Introduction  | Binary 2 - Hunt       | Baba is You                | Pizza Shop 2           | Live Baba is you  |
+| 09:00 - 10:00 | Binary 1 - Introduction  | Binary 2 - Hunt       | Baba is You                | Pizza Shop 2           | Baba is you - Live|
 | 10:00 - 11:00 | Pizza Shop l             | Circuits 1 - Light    | Circuits 2 - Firefly       | Scratch 2 - Spirograph | Bots 5 - Prep     |
 | 11:00 - 12:00 | Lunch                    | Lunch                 | Lunch                      | Lunch                  | Lunch             |
 | 12:00 - 01:00 | Bots 1 - Build and Play  | Bots 2 - Maze         | Bots 3 - Balloon Battle    | Bots 4 - Flexibility   | Blindfolded Maze  |
-| 01:00 - 02:00 | Scratch 1 - Make a Maze  | Condition Commanders  | Algorithm Obstacle Course  | Dungeon Crawler Pad    | Free Choice       |
+| 01:00 - 02:00 | Scratch 1 - Make a Maze  | Condition Commanders  | Algorithm Obstacle Course  | Circuits 3 - Game Pad  | Free Choice       |
 | 02:00 - 03:00 | Free Choice              | Free Choice           | Free Choice                | Free Choice            | Bots 6 - Gauntlet |
 
+---
 
-## Activities
-
-
-### Introduction to Binary
-
-* What is binary?
-
-* Binary song
-
-* Character encoding
-
-* Secret Messages
+# Activities
 
 
-### Algorithm Obstacle Course
+## Binary and Character Encodings
 
-* Kids pair up 
+### Introduction
 
-* TODO
+### Hunt
+
+
+## Pizza Shop
+
+### Part 1 
+
+**Goal** Introduce building blocks of coding - tie in closely with scratch and python
+
+**Materials** Coding tiles
+
+* Events
+
+* Branches
+
+* Loops
+
+* Functions
+
+* Messages
 
 
 
+### Part 2
+
+**Goal** Introduce Object Oriented Programming
+
+* What is an object
+* 
+
+
+## Bots 
+
+### Build and Play
+
+### Maze
+
+### Balloon Battle
+
+### Bot Flexibility
+
+### Prep for Gauntlet
+
+### The Gauntlet
+
+
+## Circuits
+
+### Light and Electro Magnet
+
+#### Light
+* Explain Circuits and circuit diagrams
+* Compare PCB to wires
+* Introduce a Breadboard
+* Resisters
+* Power Sources
+* Series vs Parallel
+* Add a switch
+
+#### Building an Electro Magnet
+**Goal**
+**Lesson Plan**
+* https://stemlibrarylab.org/wp-content/uploads/2021/07/Build-an-Electromagnet-Lesson-Plan.pdf
+
+**Materials**
+* 9 Batteries (maybe pair up?)
+* 9 screws
+* copper wire
+
+
+### Firefly
+
+### Game Pad
+
+
+## Games
+
+### Baba is You
+
+### Baba is You (Live)
 
 ### Condition Commanders
 
@@ -61,95 +127,44 @@ This is the Landing Page for the Holy Hackers Summer Camp 2023
 
 4. The game continues until only one player is left. This player becomes the new "Commander" for the next round.
 
-### Pizza Shop 1
-
-**Goal** Introduce building blocks of coding - tie in closely with scratch and python
-
-**Materials** Coding tiles
-
-* Events
-
-* Branches
-
-* Loops
-
-* Functions
-
-* Messages
 
 
-### Circuits 1 - Light Switch
+### Algorithm Obstacle Course
 
-* Explain Circuits and circuit diagrams
-* Compare PCB to wires
-* Introduce a Breadboard
-* Resisters
-* Power Sources
-* Series vs Parallel
-* Add a switch
+TODO
+
+## Scratch
+
+### Make a Maze
+
+### Spirograph
 
 
-### Pizza Shop 2
 
-**Goal** Introduce Object Oriented Programming
 
-* What is an object
-* 
+
+### Introduction to Binary
+
+* What is binary?
+
+* Binary song
+
+* Character encoding
+
+* Secret Messages
 
 
 
 
 
 
-### Pizza Shop 3
-
-**Goal** Introduce Micro services?
-**Goal** 
 
 
 
 
 
-### Bots 1 - Build and Play
-
-### Bots 2 - Maze
-
-### Bots 3 - Balloon Battle
-
-### Bots 4 - Flexibility
-
-**Goal** Find a way to get the bot to adapt to a given scenario
 
 
-### Bots 5 - Prep
-
-**Goal** Introduce the final challenge and start training!
-
-### Bots 6 - Gauntlet
-
-Activities similar to what we did, but tweaked
-
-* Maze
-
-* Balloon Popping
-
-
-
-
-### Programming Languages and Transpiling 
-
-
-
-### Building an Electro Magnet
-
-**Goal**
-**Lesson Plan**
-* https://stemlibrarylab.org/wp-content/uploads/2021/07/Build-an-Electromagnet-Lesson-Plan.pdf
-
-**Materials**
-* 9 Batteries (maybe pair up?)
-* 9 screws
-* copper wire
 
 
 
