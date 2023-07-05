@@ -9,57 +9,88 @@ This is the Landing Page for the Holy Hackers Summer Camp 2023
 |               | Monday                   | Tuesday               | Wednesday                  | Thursday               | Friday            |
 |---------------|--------------------------|-----------------------|----------------------------|------------------------|-------------------|
 | 09:00 - 10:00 | Binary 1 - Introduction  | Binary 2 - Hunt       | Baba is You                | Pizza Shop 2           | Baba is you - Live|
-| 10:00 - 11:00 | Pizza Shop l             | Circuits 1 - Light    | Circuits 2 - Firefly       | Scratch 2 - Spirograph | Bots 5 - Prep     |
-| 11:00 - 12:00 | Lunch                    | Lunch                 | Lunch                      | Lunch                  | Lunch             |
-| 12:00 - 01:00 | Bots 1 - Build and Play  | Bots 2 - Maze         | Bots 3 - Balloon Battle    | Bots 4 - Flexibility   | Blindfolded Maze  |
+| 10:00 - 11:00 | Pizza Shop l             | Circuits 1 - Light    | Circuits 2 - Firefly       | Scratch 2 - Spirograph | Bots 5 - Balloons |
+| 11:00 - 12:00 | Lunch and Play           | Lunch and Play        | Lunch and Play             | Lunch and Play         | Lunch and Play    |
+| 12:00 - 01:00 | Bots 1 - Build and Play  | Bots 2 - Maze         | Bots 3 - Music             | Bots 4 - Art           | Blindfolded Maze  |
 | 01:00 - 02:00 | Scratch 1 - Make a Maze  | Condition Commanders  | Algorithm Obstacle Course  | Circuits 3 - Game Pad  | Free Choice       |
 | 02:00 - 03:00 | Free Choice              | Free Choice           | Free Choice                | Free Choice            | Bots 6 - Gauntlet |
 
 ---
 
-# Activities
-
+**Note:** The materials listed below are a reminder for me (Mr. Skinner), no need to buy anything!
 
 ## Binary and Character Encodings
 
 ### Introduction
+**Goals:**
+* Be able to count in binary
+* Understand character encodings
+
+**Agenda:**
+* What is binary?
+* Activity - Counting in binary
+* Binary song
+* What are Character encodings?
+* Activity - Secret Messages
+
+**Materials:**
+* Whiteboard
+* Guitar
+* Note cards
+* Pens
 
 ### Hunt
+Materials:
+* Laminated Clues
+* Laminated Character Encoding Cards
+* Pens
 
 
 ## Pizza Shop
 
 ### Part 1 
 
-**Goal** Introduce building blocks of coding - tie in closely with scratch and python
+**Goals**
+* Introduce building blocks of coding - tie in closely with scratch and python
 
-**Materials** Coding tiles
+**Materials:**
+* Coding tiles
+* Paper pizza materials
 
+Topics:
 * Events
-
 * Branches
-
 * Loops
-
 * Functions
-
-* Messages
-
-
+* Messaging
 
 ### Part 2
 
-**Goal** Introduce Object Oriented Programming
-
-* What is an object
-* 
+**Goals:**
+* Introduce Object Oriented Programming
 
 
 ## Bots 
 
 ### Build and Play
+**Goals:**
+* Build bots
+* Have fun!
+
+**Materials:**
+* MBot kits
+* AA Batteries
+* Button Batteries
 
 ### Maze
+**Goals:**
+* Navigate an MBot through a maze
+* Learn about iteration
+
+**Materials:**
+* Computers
+* MBots
+* Cardboard Maze
 
 ### Balloon Battle
 
@@ -141,39 +172,7 @@ TODO
 
 
 
+---
 
-
-### Introduction to Binary
-
-* What is binary?
-
-* Binary song
-
-* Character encoding
-
-* Secret Messages
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Photos
-
-
+# Photos
 
