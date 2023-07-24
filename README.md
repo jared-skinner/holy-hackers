@@ -6,15 +6,15 @@ This is the Landing Page for the Holy Hackers Summer Camp 2023
 
 ## Schedule
 
-|               | Tuesday                  | Tuesday               | Wednesday                  | Thursday               | Friday            |
-|---------------|--------------------------|-----------------------|----------------------------|------------------------|-------------------|
-| 09:00 - 10:00 | Binary 1 - Introduction  | Binary 2 - Hunt       | Baba is You                | Pizza Shop 2           | Baba is you - Live|
-| 10:00 - 11:00 | Pizza Shop l             |                       | Circuits 2 - Firefly       | Scratch 2 - Spirograph | Bots 5 - Balloons |
-| 11:00 - 12:00 | Bots 1 - Build and Play  | Bots 2 - Maze         | Lunch and Play             | Lunch and Play         | Lunch and Play    |
-| 12:00 - 01:00 | Lunch and Play           | Lunch and Play        | Bots 3 - Music             | Bots 4 - Art           | Blindfolded Maze  |
-| 01:00 - 02:00 | Scratch 1 - Make a Maze  | Condition Commanders  | Algorithm Obstacle Course  | Circuits 3 - Game Pad  | Free Choice       |
-| 02:00 - 03:00 | Circuits 1 - Light       | Free Choice           | Free Choice                | Free Choice            | Bots 6 - Gauntlet |
-| 03:00 - 04:00 | Free Choice              | Free Choice           | Free Choice                | Free Choice            | Bots 6 - Gauntlet |
+|               | Tuesday                  | Wednesday             | Thursday                   | Thursday               |
+|---------------|--------------------------|-----------------------|----------------------------|------------------------|
+| 09:00 - 10:00 | Binary 1 - Introduction  | Binary 2 - Hunt       | Algorithms Obstacle Course | Circuits 3 - Game Pad  |
+| 10:00 - 11:00 | Pizza Shop l             | Bots 2 - Maze         | Scratch 2 - Spirograph     | Bots 5 - Battle        |
+| 11:00 - 12:00 | Bots 1 - Build and Play  | Circuits 2 - Firefly  | Pizza Shop 2               | Free Choice            |
+| 12:00 - 01:00 | Lunch and Play           | Lunch and Play        | Lunch and Play             | Lunch and Play         |
+| 01:00 - 02:00 | Scratch 1 - Make a Maze  | Condition Commanders  | Baba is You                | Blindfolded Maze       |
+| 02:00 - 03:00 | Circuits 1 - Light       | Bots 3 - Music        | Bots 4 - Art               | Bots 6 - Gauntlet      |
+| 03:00 - 04:00 | Free Choice              | Free Choice           | Free Choice                | Free Choice            |
 
 ---
 
